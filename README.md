@@ -8,7 +8,7 @@ Este repositório contém a implementação de desafios técnicos utilizando a l
 - **Descrição**: Dado o trecho de código com as variáveis `INDICE`, `SOMA` e `K`, foi implementado um loop para calcular o valor final da variável `SOMA`.
 - **Objetivo**: Determinar o valor da soma ao término do processamento.
 - **Resultado**: O valor obtido foi **91**.
-- **Clique neste [link](https://github.com/CaioHangai/TesteTargetSistemaDevPlantao/blob/main/1ValorVariavelSoma/Program.cs) para ver código.**
+- **[Clique Aqui](https://github.com/CaioHangai/TesteTargetSistemaDevPlantao/blob/main/1ValorVariavelSoma/Program.cs) para ver código.**
 
 ---
 
@@ -16,6 +16,7 @@ Este repositório contém a implementação de desafios técnicos utilizando a l
 - **Descrição**: Um programa que calcula a sequência de Fibonacci e verifica se um número informado pertence a essa sequência.
 - **Entradas**: Número informado pelo usuário ou definido diretamente no código.
 - **Saídas**: Mensagem indicando se o número pertence ou não à sequência.
+- **[Clique Aqui](https://github.com/CaioHangai/TesteTargetSistemaDevPlantao/blob/main/2Fibonacci/Program.cs) para ver código.**
 
 ---
 
@@ -26,6 +27,7 @@ Este repositório contém a implementação de desafios técnicos utilizando a l
   - Número de dias com faturamento acima da média mensal.
 - **Fonte de Dados**: Arquivo JSON ou XML contendo o faturamento diário.
 - **Regras**: Dias sem faturamento (finais de semana e feriados) são ignorados no cálculo da média.
+- **[Clique Aqui](https://github.com/CaioHangai/TesteTargetSistemaDevPlantao/blob/main/3VetorFaturamentoDiario/Program.cs) para ver código.**
 
 ---
 
@@ -37,6 +39,7 @@ Este repositório contém a implementação de desafios técnicos utilizando a l
   - MG – R$29.229,88
   - ES – R$27.165,48
   - Outros – R$19.849,53
+  - **[Clique Aqui](https://github.com/CaioHangai/TesteTargetSistemaDevPlantao/blob/main/4PercentualDeRepresentacao/Program.cs) para ver código.**
 
 ---
 
@@ -44,9 +47,4 @@ Este repositório contém a implementação de desafios técnicos utilizando a l
 - **Descrição**: Um programa que inverte os caracteres de uma string informada pelo usuário, sem utilizar funções prontas como `Reverse`.
 - **Entradas**: String definida pelo usuário ou previamente no código.
 - **Saída**: String invertida.
-
-## Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+- **[Clique Aqui](https://github.com/CaioHangai/TesteTargetSistemaDevPlantao/blob/main/5InverteString/Program.cs) para ver código.**
