@@ -1,0 +1,31 @@
+# Ignorar arquivos e pastas geradas automaticamente
+bin/
+obj/
+Properties/launchSettings.json
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+*.cache
+
+# Ignorar arquivos específicos do Visual Studio
+.vscode/
+.vs/
+
+# Ignorar pacotes do NuGet
+*.nupkg
+packages/
+
+# Ignorar builds locais
+*.exe
+*.dll
+*.pdb
+
+# Ignorar configurações do usuário
+*.user
+*.suo
+*.userprefs
+
+# Ignorar arquivos sensíveis ou de configuração
+secrets.json
+appsettings.json
