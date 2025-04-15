@@ -8,6 +8,7 @@ Este repositório contém a implementação de desafios técnicos utilizando a l
 - **Descrição**: Dado o trecho de código com as variáveis `INDICE`, `SOMA` e `K`, foi implementado um loop para calcular o valor final da variável `SOMA`.
 - **Objetivo**: Determinar o valor da soma ao término do processamento.
 - **Resultado**: O valor obtido foi **91**.
+- **Clique neste [link](https://github.com/CaioHangai/TesteTargetSistemaDevPlantao/blob/main/1ValorVariavelSoma/Program.cs) para ver código.**
 
 ---
 
